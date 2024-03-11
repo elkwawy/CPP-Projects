@@ -1,2 +1,2 @@
 # CPP-Projects
-Projects created using }++
+Projects created using C++
